@@ -1,0 +1,7 @@
+.root {
+    -fx-background-image: url("/images/background.jpg");
+}
+
+.button {
+    -fx-background-image: url("/images/1.jpg");
+}
